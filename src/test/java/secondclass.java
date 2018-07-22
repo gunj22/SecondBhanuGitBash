@@ -8,6 +8,11 @@ public class secondclass {
 		System.out.println("Second Class for testing");
 		
 		
+		System.out.println("New comment is added");
+		
+		System.out.println("******************************");
+		
+		
 	}
 
 }
